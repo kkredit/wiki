@@ -1,2 +1,2 @@
 # wiki
-Useful things worth knowing but not remembering.
+Things worth knowing but not remembering.
