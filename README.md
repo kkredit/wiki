@@ -8,3 +8,6 @@ this repo holds some reference files.
 ## Credits
 [ludoza's](https://github.com/ludoza) [DokuWiki to Markdown
 Converter](https://github.com/ludoza/DokuWiki-to-Markdown-Converter) has been a useful tool.
+
+Icons made by [Freepik](https://www.flaticon.com/authors/freepik) and used under the Creative
+Commons 3.0 license. The icon collection lives [here](https://www.flaticon.com/packs/web-ui).
