@@ -6,7 +6,7 @@ Wiki content is stored in the [Wiki tab](https://github.com/kkredit/wiki/wiki). 
 this repo holds some reference files.
 
 ## Credits
-[ludoza's](https://github.com/ludoza) [DokuWiki to Markdown
+[ludoza](https://github.com/ludoza)'s [DokuWiki to Markdown
 Converter](https://github.com/ludoza/DokuWiki-to-Markdown-Converter) has been a useful tool.
 
 Icons made by [Elegant Themes](https://www.flaticon.com/authors/elegant-themes) and used under the
